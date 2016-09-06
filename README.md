@@ -2,4 +2,9 @@
 
 V4 16s sequence processing analyses.
 
-We will gather scripts for our analysis here.
+# Demultiplexing script
+
+Run thusly:
+    ./demultiplex PREFIX mapping_file.txt
+    
+It will split barcodes.
