@@ -1,4 +1,5 @@
 #Pipeline for Illumina data with qiime (Sep 2016)
+
 #Para poder extraer los barcodes de manera sencilla manejare el rev como fwd y vice versa.
 #En el proceso de split libraries hay una opcion de escribir el
 #reverse complement antes de mandarlo al output file, para corregir
